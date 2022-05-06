@@ -42,6 +42,7 @@ public class Client1 extends Application {
 
     Scene sceneFlow;
     Scene fillinScene;
+    Scene testPane;
 
     @Override
     public void start(Stage stage) throws IOException {
