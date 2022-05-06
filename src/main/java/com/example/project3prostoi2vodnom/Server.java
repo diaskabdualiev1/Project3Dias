@@ -44,6 +44,8 @@ public class Server extends Application {
 
     static Quiz quiz;
 
+    static Button button2a;
+
     static ToggleButton button1;
     static ToggleButton button2;
     static ToggleButton button3;
